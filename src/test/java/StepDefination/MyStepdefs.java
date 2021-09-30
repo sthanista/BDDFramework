@@ -34,6 +34,7 @@ public class MyStepdefs {
     public void usersShouldSuccessfullyLogIn() {
     }
 
+    //Test BDD
     @And("home page should be displayed")
     public void homePageShouldBeDisplayed() {
     }
