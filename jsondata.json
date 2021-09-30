@@ -1,0 +1,20 @@
+{
+	"Name": "Denu",
+	"Contact": 12345678,
+	"flag": true,
+	"Phone number": ["123", "456"],
+	"Email": null,
+	"password": 123.789,
+	"address": {
+		"building number": 123,
+		"street": "rty"
+	},
+	"city": [{
+		"city_name": "Texas",
+		"zipcode": 75067
+	}, {
+		"city_name": "kansas",
+		"zipcode": 75062
+	}]
+  
+}
